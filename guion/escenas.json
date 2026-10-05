@@ -144,8 +144,8 @@
     {
       "id": 10,
       "image": "imagenes/escena_10.png",
-      "text_es": "si los forzaban a irse, tallarían una cruz.",
-      "text_en": "if they were forced to leave, they would carve a cross.",
+      "text_es": "si partían en peligro, tallarían una cruz.",
+      "text_en": "if they left in danger, they would carve a cross.",
       "prompt_en": "Close-up of a man's weathered hand carving a simple cross into tree bark with a knife, wood shavings, slow push in on the hand, vertical composition, cinematic lighting, photorealistic, ultra-detailed, dark fantasy, historical epic style, volumetric light, dramatic shadows, 35mm film grain, 8k --ar 9:16",
       "negative_prompt": "text, letters, watermark, logo, modern objects, extra fingers, deformed hands, blurry, cartoon, low quality",
       "size": "768x1344",

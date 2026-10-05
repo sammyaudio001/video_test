@@ -9,10 +9,10 @@
 | En 1590 regresa: pueblo vacío | Llega el 18-ago-1590 (tercer cumpleaños de Virginia) | ✅ |
 | Sin cuerpos, sin señales de batalla, casas desmontadas | White: casas "taken down", sin rastros de lucha | ✅ |
 | CROATOAN tallado en un poste | En un poste de la empalizada; además "CRO" en un árbol | ✅ (el "CRO" se omite) |
-| Señal pactada: una cruz si los forzaban a irse | Lo pactado: tallar el destino y añadir una cruz (cruz de Malta) si partían en peligro | ⚠️ Es una simplificación aceptable |
+| Señal pactada: una cruz si partían en peligro | Lo pactado: tallar el destino y añadir una cruz (cruz de Malta) si partían en peligro | ✅ (ajustado) |
 | Croatoan: isla vecina y su tribu | Isla de Croatoan (hoy Hatteras) y el pueblo croatoan, el de Manteo | ✅ |
 | Una tormenta impidió buscarlos; nunca volvió | Mal tiempo y anclas perdidas obligaron a volver a Inglaterra | ✅ |
 | Ciento quince personas | Las cifras van de 115 a 118 según cómo se cuente (el más citado: ~115–117 colonos) | ⚠️ Defendible |
 | Más de cuatro siglos | 1590 → 2026 = 436 años | ✅ |
 
-Ajuste opcional, misma duración: «si partían en peligro, tallarían una cruz» (más preciso que «si los forzaban a irse»).
+Ajuste aplicado: «si partían en peligro, tallarían una cruz» (antes: «si los forzaban a irse»).
